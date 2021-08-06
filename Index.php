@@ -1,5 +1,4 @@
 <?php include_once("header.php"); ?>
-<ul class="menu">
 	<li>
 		<a href="/lab4/list_product.php"> danh sach san pham</a>
 	</li>
